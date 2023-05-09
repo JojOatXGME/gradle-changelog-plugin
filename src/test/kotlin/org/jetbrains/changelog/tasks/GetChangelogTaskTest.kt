@@ -57,7 +57,7 @@ class GetChangelogTaskTest : BaseTest() {
         assertMarkdown(
             """
             ## [1.0.1] - 2022-10-17
-            Release with bugfix.
+            Release with bugfix. FAIL!!
             
             ### Fixed
             - bar
